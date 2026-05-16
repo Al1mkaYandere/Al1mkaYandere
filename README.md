@@ -28,7 +28,6 @@ EarthquakeNet — end-to-end probabilistic pipeline for seismic event modeling.
 
 - Hybrid DL + statistical framework for modeling earthquake occurrence
 - Count modeling via Negative Binomial / Poisson process formulations  
-  \( Y_t \sim \text{NB}(\mu, \alpha) \)
 - Spatio-temporal feature engineering on USGS data
 - Calibration of probabilistic outputs under noisy observational regimes
 
